@@ -1,4 +1,4 @@
-# Some Python-based Machine Learning attempts by me
+# Some Python-based Machine Learning attempts
 
 ## 1. Azure ML Studio 
 An Microsoft cloud-based platform ([to read more](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-ml)) that allows you to train, deploy, automate, manage, and track ML models. 
