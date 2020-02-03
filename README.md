@@ -1,7 +1,7 @@
 # Some Python-based Machine Learning attempts
 
-## 1. Azure ML Studio 
-An Microsoft cloud-based platform ([to read more](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-ml)) that allows you to train, deploy, automate, manage, and track ML models. 
+## 1. Using Azure ML Studio (an attempt on diabetes prediction)
+Azure ML Studio, an Microsoft cloud-based platform ([to read more](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-ml)) that allows you to train, deploy, automate, manage, and track ML models. 
 In this attempt, an Azure ML web service is deployed directly from within the Jupyter notebook (can also be done in other Python environment) using the `azureml` package.
 
 > Another way is to develop the models directly on [Microsoft Azure ML Studio](https://studio.azureml.net) (or Microsoft Azure Machine Learning sService, which provides end-to-end lifecycle management for ML models).
