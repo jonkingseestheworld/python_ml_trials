@@ -6,9 +6,10 @@ In this attempt, an Azure ML web service is deployed directly from within the Ju
 
 > Another way is to develop the models directly on [Microsoft Azure ML Studio](https://studio.azureml.net) (or Microsoft Azure Machine Learning sService, which provides end-to-end lifecycle management for ML models).
 
-
 #### The reasons to use a cloud-based platform
 (Perhaps apart from the biggest advantage of giving organisiations/individuals the access to high-performance infrastructure that they might not be able to afford on their own,) sometimes you simply want your models to be accessible from a number of locations. (e.g. accessible from the web)
+
+**Takeaway from this exercise**: In this attempt, I explored fitting a model and deploying it as a web service. I did this by using tools in an Azure Notebook to build a model relating variables surrounding physical conditions and then posting that as a function in Azure ML Studio. From there, I (as well as others) can access the pre-fitted models to make predictions on new data from anywhere on the web.
 
 
 ### Core dependencies
