@@ -1,4 +1,4 @@
-# Python-based Machine Learning attempts
+# Some Python-based Machine Learning attempts by me
 
 ## 1. Azure ML Studio 
 An Microsoft cloud-based platform ([to read more](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-ml)) that allows you to train, deploy, automate, manage, and track ML models. 
@@ -22,7 +22,7 @@ In this attempt, an Azure ML web service is deployed directly from within the Ju
 | [scikit-learn](https://scikit-learn.org/stable/)     |
 | [matplotlib](http://matplotlib.org/)                 |
 
-
+You also need access to an Azure ML Studio workspace ([Azure ML Studio](https://studio.azureml.net) is free and does not require an Azure subscription. You can sign in with an Microsoft account.) There are step-by-step procedures in the jupyter notebook you can follow to get connected to an Azure ML Studio workspace.
 
 
 
