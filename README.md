@@ -24,6 +24,8 @@ In this attempt, an Azure ML web service is deployed directly from within the Ju
 
 You also need access to an Azure ML Studio workspace ([Azure ML Studio](https://studio.azureml.net) is free and does not require an Azure subscription. You can sign in with an Microsoft account.) There are step-by-step procedures in the jupyter notebook you can follow to get connected to an Azure ML Studio workspace.
 
+### The database
+From kaggle, [Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 
 
 ### References
